@@ -62,6 +62,7 @@ This project demonstrates how to automate the filling and submission of a web fo
 ## Project Structure
 
 web-form-automation
+
 ├── README.md
 
 ├── app.py 
