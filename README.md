@@ -62,10 +62,10 @@ This project demonstrates how to automate the filling and submission of a web fo
 ## Project Structure
 
 web-form-automation
-├── README.md
-├── app.py
-├── .gitignore
-├── requirements.txt
+├── README.md \n
+├── app.py \n
+├── .gitignore \n
+├── requirements.txt \n
 └── venv/
 
 - `README.md`: This file.
